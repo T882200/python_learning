@@ -1,0 +1,63 @@
+קורס יודמי 1 - web
+html5
+css
+javascript - basic, advance (ecma script 2018)
+bootstrap
+wordpress basic, advance
+PHP
+SQL \ SQLit \ MYSQL\OracleDB
+AngularJS
+Angular4
+VueJS
+ReactJS
+MEAN Stack
+emberJS
+work with FireBase
+Ruby + Ruby on Rails
+
+קורס יודמי 2 - python and big data
+python 3.6
+stage 1
+stage 2
+advance topics
+summary
+tkinter
+kivy
+databases
+django and web development in python
+AI \ BI \ ML with python
+Tensor Flow
+Big Data - Hadoop from zero to hero
+Web Python
+diff between py3 and 2
+
+קורס יודמי 3 - הנדסת תוכנה
+Principals of software engenirig
+C
+C++
+C# and .Net Framework
+Java
+Design pattrens
+VB .NET
+Delphi \ Pascal \ Object Pascal
+Perl
+R
+Go
+Assembly and the basics of reverse engeniring
+
+
+קורס יודמי 3 - פיתוח מובייל
+Android - java, web, APIs, Alt app creation, Hybrid apps
+IOS - Swift, Objective C
+UI \ UX fundamentals
+Material Design 2018
+
+קורס יודמי 4 - פיתוח משחקים
+Pygame
+Unity - 2D (C# \ JS)
+Unity - 3D (C# \ JS)
+unreal engine
+Source
+Games Logic
+
+קורס יודמי 5 - שיווק רשתי

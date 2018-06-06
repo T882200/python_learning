@@ -1,0 +1,15 @@
+<!-- 11 Displays choice results for the passed question -->
+
+<h1>{{question.question_text}}</h1>
+
+<!-- Cycle through all the choices for the question -->
+<ul>
+    {% for choice in question.choice_set.all %}
+        <li>
+            <!-- Add a s to vote if not 1 -->
+            {{choice.choice_text}} -- {{choice.votes}} vote{{choice.votes|pluralize}}
+        </li>
+    {% endfor %}
+</ul>
+
+<a href="{% url 'polls:detail' question.id %}">Vote Again</a>

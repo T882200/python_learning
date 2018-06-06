@@ -1,0 +1,13 @@
+*.swp
+.DS_Store
+*.pyc
+algo_venv/
+venv/
+build/
+*~
+/dist/
+/*.egg-info
+*.ropeproject/
+docs/_build
+.idea/*
+.cache/
